@@ -54,4 +54,6 @@ Most products are rated between 3.9 and 4.5, with prices predominantly ranging f
 
 ## Conclusion
 The analysis shows that Sephora’s product ratings are generally high, and pricing doesn’t strongly influence customer satisfaction. These insights can guide Sephora in product development, marketing strategies, and improving customer experience.
+## Acknowledgments
 
+Dataset sourced from [Sephora](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews).
